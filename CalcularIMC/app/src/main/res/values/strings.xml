@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calcular IMC</string>
+    <string name="infoapp">DIGITE OS PARÂMETROS ABAIXO</string>
+    <string name="editbase">Digite sua altura  EX:1.50</string>
+    <string name="editalt">Digite seu peso em kg EX:60</string>
+    <string name="btny">CALCULAR</string>
+    <string name="rodape">App feito Adrian Castro @adrian_castroliver</string>
+    <string name="resultado">Resultado:IMC=</string>
+    <string name="todo">TODO</string>
+    <string name="nomeuser">Digite seu nome</string>
+    <string name="historico">historico</string>
+</resources>
